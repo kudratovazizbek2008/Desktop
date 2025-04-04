@@ -184,7 +184,7 @@ body {
     width: 100%;
 }
 
-.header_mobile {
+.header_dad {
     background-image: url("img/BG Shape.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -207,10 +207,11 @@ body {
     }
 }
 
-.main {
+.dad_main {
     background-image: url("img/BG Shape Content2.png");
     background-repeat: no-repeat;
     background-size: cover;
+
 }
 
 .main_child {
