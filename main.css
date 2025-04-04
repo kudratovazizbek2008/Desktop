@@ -186,6 +186,8 @@ body {
 
 .header_mobile {
     background-image: url("img/BG Shape.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-top: 20px;
 }
 
@@ -207,6 +209,8 @@ body {
 
 .main {
     background-image: url("img/BG Shape Content2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .main_child {
@@ -354,7 +358,9 @@ body {
 
 .menu {
     background-image: url("img/BG Shape Content10.svg");
-    margin-top: 260px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 260px;
 }
 
 .menu_text {
